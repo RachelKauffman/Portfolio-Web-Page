@@ -1,0 +1,51 @@
+head, body {
+    text-align:center;
+    background-color:lightgray;
+    font-family:Verdana, Tahoma, sans-serif;
+}
+
+
+/*adding border to a container*/
+header{
+    font-family:Verdana, Tahoma, sans-serif;
+    border: 10px;
+    height:70px;
+    margin:auto;
+    background-color: darkslategray;
+    color:white;
+    padding:10px;
+}
+
+/*headings font change*/
+h2, h3{
+    font-family: "Ink Free", sans-serif;
+    padding:0px;
+}
+
+main, hr{
+    width: 500px;
+    margin:auto;
+}
+
+
+ul, ol, p {
+    font-size:11pt;
+}
+
+/*psuedo-codes*/
+ .image-circle{
+    border-radius:50%;
+ }
+ .lists{
+    text-align:left;
+}
+
+
+footer{
+    font-family:Verdana,Tahoma, sans-serif;
+    border:3px;
+    margin:3px;
+    background-color:darkslategray;
+    color:white;
+}
+
